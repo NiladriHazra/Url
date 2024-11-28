@@ -2,7 +2,7 @@
 import { useState, useEffect } from "react";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
-import Header from "@/components/header";
+import Header from "@/components/Header";
 import Image from "next/image";
 
 function App() {
